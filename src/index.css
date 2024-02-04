@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(198, 146, 108);
+  max-width: 1000px;
+  margin: auto;
+}
