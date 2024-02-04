@@ -1,0 +1,19 @@
+{
+  "name": "samaaro_assignment_backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tirlochan Arora",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "yarn start index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
